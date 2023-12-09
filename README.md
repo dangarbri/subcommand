@@ -8,3 +8,4 @@ For openssl you can do `openssl enc/base64/rsa/rsautl/etc`.
 With these programs you have a primary command, and a bunch of subcommands.
 
 Dispatch is a library that lets you easily add subcommands like this in your programs.
+This is a very simple library that I think is very useful.
